@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Socialise",
+        "source": "assets/socialise.jpg",
+        "description": "Meet up with friends and family regularly since being around them can make you happy, and they can provide support if you need it"
+    },
+    {
+        "title": "Reading",
+        "source": "assets/reading.jpg",
+        "description": "Reading some fiction or non-fiction books that you find inspiring or uplifting helps improve your mood, while also letting you de-stress"
+    },
+    {
+        "title": "Journaling",
+        "source": "assets/journaling.jpg",
+        "description": "Keep a journal and write down what you feel or think, which helps you process your feelings, improving your mental health"
+    },
+    {
+        "title": "Listen to some music",
+        "source": "assets/music.jpg",
+        "description": "Listening to some calm music can help you feel better if you feel down, since it releases dopamine which makes you feel good!"
+    },
+    {
+        "title": "Play sports",
+        "source": "assets/sports.jpg",
+        "description": "Playing a sport is a great way to both have fun, clear your mind, relieve yourself of stress, and improve your mental and physical wellbeing"
+    },
+    {
+        "title": "Meditate",
+        "source": "assets/meditation.jpg",
+        "description": "Meditation lets you calm down and think about the smaller things in life, allowing you to clear a cloudy mind and relieving anxiety"
+    },
+    {
+        "title": "Yoga",
+        "source": "assets/yoga.jpg",
+        "description": "Yoga is a great way for you to de-stress and increase bloodflow to different parts your body, making you feel better"
+    }
+]
